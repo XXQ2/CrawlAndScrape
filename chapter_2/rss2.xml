@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+ <title>gihyo.jp：総合</title>
+ <link>https://gihyo.jp/</link>
+ <description>gihyo.jp（総合）の更新情報をお届けします</description>
+ <language>ja-jp</language>
+ <copyright>技術評論社 2018</copyright>
+ <lastBuildDate>Sat, 22 Sep 2018 21:52:00 +0900</lastBuildDate>
+ <image>
+  <url>https://gihyo.jp/assets/templates/gihyojp2007/image/header_logo_gihyo.gif</url>
+  <title>gihyo.jp</title>
+  <link>https://gihyo.jp/</link>
+ </image>
+ <item>
+  <title>2018年9月21日号　14.04 LTSへのExtended Security Maintenance提供，Hyper-V GalleryにおけるUbuntu 18.04.1 LTS ── Ubuntu Weekly Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/ubuntu-topics/201809/21</link>
+  <description>Ubuntu 14.04 LTSを，どうしても使い続けないといけないユーザーにとっては嬉しい知らせです。Extended Security Maintenance（“ESM”）が，14.04でも提供される予定であることが発表されました。</description>
+  <pubDate>Fri, 21 Sep 2018 10:35:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/ubuntu-topics">Ubuntu Weekly Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/ubuntu-topics/201809/21</guid> 
+  <author>吉田史</author>
+ </item>
+ <item>
+  <title>ログ分析でサイバー攻撃を未然に防ぐ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0070</link>
+  <description>2020年の東京オリンピックを前に，日本はサイバー攻撃の格好の標的となっています。</description>
+  <pubDate>Fri, 21 Sep 2018 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0070</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>ロクナナワークショップ Sketchを使ったiPhoneアプリデザインの入門講座を開講 ── ロクナナワークショップ NEWS &amp; REPORT</title>
+  <link>https://gihyo.jp/design/serial/01/67ws/0140</link>
+  <description>Webデザインの学校 ロクナナワークショップでは，2018年11月よりiPhone/iOS向けアプリケーションのUIデザイン入門講座を開講します。</description>
+  <pubDate>Fri, 21 Sep 2018 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/serial/01/67ws">ロクナナワークショップ NEWS &amp; REPORT</category>
+  <guid>https://gihyo.jp/design/serial/01/67ws/0140</guid> 
+  <author>Web制作の学校 ロクナナワークショップ</author>
+ </item>
+ <item>
+  <title>いま話題のコンテナ技術とは？ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0069</link>
+  <description>アプリケーション開発，オペレーションの分野で話題のコンテナ技術。</description>
+  <pubDate>Fri, 21 Sep 2018 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0069</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>第2回　そは永遠（とこしえ）に横たわる死者にはあらねど… ── 続・玩式草子 ―戯れせんとや生まれけん―</title>
+  <link>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0002</link>
+  <description>平成最後の夏は豪雨に酷暑，台風，さらには北海道での大地震，と自然災害のオンパレードでした。このような自然の暴威を目（ま）の当たりにすると，人間は無力でちっぽけな存在にすぎないことを実感します。</description>
+  <pubDate>Thu, 20 Sep 2018 09:33:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2">続・玩式草子 ―戯れせんとや生まれけん―</category>
+  <guid>https://gihyo.jp/lifestyle/serial/01/ganshiki-soushi-2/0002</guid> 
+  <author>こじまみつひろ</author>
+ </item>
+ <item>
+  <title>2018年9月第4週　Essential Phoneを楽天モバイルとIIJmioが取り使い開始ほか ── Android Weekly Topics</title>
+  <link>https://gihyo.jp/lifestyle/clip/01/awt/201809/20</link>
+  <description>2018年9月第4週のAndroid関連のニュースです。</description>
+  <pubDate>Thu, 20 Sep 2018 09:32:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/lifestyle/clip/01/awt">Android Weekly Topics</category>
+  <guid>https://gihyo.jp/lifestyle/clip/01/awt/201809/20</guid> 
+  <author>傍島康雄</author>
+ </item>
+ <item>
+  <title>2018年9月第3週号 1位は，良いシングルページウェブサイトを作るテクニック，気になるネタは，Appleは，iPhone XRで3D Touchが失敗であることを認めた ── 週刊Webテク通信</title>
+  <link>https://gihyo.jp/design/clip/01/weekly-web-tech/201809/20</link>
+  <description>ネットで見かけたWebテク（Webテクニック・Webテクノロジー）記事から，Webデザイナーの目で厳選したネタを週刊で紹介するこのコーナー。今回は，2018年9月10日～9月16日の間に見つけた記事のベスト5です。</description>
+  <pubDate>Thu, 20 Sep 2018 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/design/clip/01/weekly-web-tech">週刊Webテク通信</category>
+  <guid>https://gihyo.jp/design/clip/01/weekly-web-tech/201809/20</guid> 
+  <author>芦之由</author>
+ </item>
+ <item>
+  <title>ネット生活をより快適に！ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0068</link>
+  <description>Wi-Fiは，当初ノートパソコンをLANケーブルなしで家庭内LANやインターネットに接続するための仕組みとして普及しました。</description>
+  <pubDate>Thu, 20 Sep 2018 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0068</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>オープンソースソフトウェアのライセンスとは ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0067</link>
+  <description>オープンソースソフトウェア（OSS）とは，コンピュータプログラム（ソースコード）の使用や修正，再配布などは自由に行われてもよいとする考え方であり，それに基づいて公開されているソフトウェアを指します。</description>
+  <pubDate>Thu, 20 Sep 2018 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0067</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2018年9月19日　もう特別扱いはいらない ―Linuxコミュニティに新たな&quot;Code of Conduct&quot;確立へ ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/201809/19</link>
+  <description>現在もLinuxコミュニティを騒然とさせているLinus Torvaldsの謝罪＆休養宣言だが…。</description>
+  <pubDate>Wed, 19 Sep 2018 18:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/201809/19</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>グレープシティ，ドキュメントを生成・更新する開発支援APIライブラリ「DioDocs」を10月17日より発売 ── ニュースリリース</title>
+  <link>https://gihyo.jp/news/nr/2018/09/1901</link>
+  <description></description>
+  <pubDate>Wed, 19 Sep 2018 10:05:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/news/nr">ニュースリリース</category>
+  <guid>https://gihyo.jp/news/nr/2018/09/1901</guid> 
+  <author>技術評論社</author>
+ </item>
+ <item>
+  <title>第537回　Standard Notesでメモを取る ── Ubuntu Weekly Recipe</title>
+  <link>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0537</link>
+  <description>今回はEnd-to-Endの暗号化に対応し，拡張機能も備えたFLOSSなメモサービスであるStandard Notesを紹介します。</description>
+  <pubDate>Wed, 19 Sep 2018 09:59:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/serial/01/ubuntu-recipe">Ubuntu Weekly Recipe</category>
+  <guid>https://gihyo.jp/admin/serial/01/ubuntu-recipe/0537</guid> 
+  <author>柴田充也</author>
+ </item>
+ <item>
+  <title>File.#019　職業病（連載第65回） ── きたみりゅうじの聞かせて珍プレー プレイバック</title>
+  <link>https://gihyo.jp/dev/serial/01/funny-play-pb/0019</link>
+  <description>グラフィックデザイナーの同僚とファミレスに行ったときのことです。</description>
+  <pubDate>Wed, 19 Sep 2018 09:32:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/funny-play-pb">きたみりゅうじの聞かせて珍プレー プレイバック</category>
+  <guid>https://gihyo.jp/dev/serial/01/funny-play-pb/0019</guid> 
+  <author>きたみりゅうじ</author>
+ </item>
+ <item>
+  <title>第4回　BBc-1のトランザクションとは ── ブロックチェーンの課題と可能性～BBc-1（Beyond Blockchain One）から学ぶブロックチェーン開発</title>
+  <link>https://gihyo.jp/dev/serial/01/bbc1/0004</link>
+  <description>今回は，BBc-1の最も重要な要素である「トランザクション」について概要を説明します。次回以降，具体例を交えて詳細を説明します。</description>
+  <pubDate>Wed, 19 Sep 2018 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/bbc1">ブロックチェーンの課題と可能性～BBc-1（Beyond Blockchain One）から学ぶブロックチェーン開発</category>
+  <guid>https://gihyo.jp/dev/serial/01/bbc1/0004</guid> 
+  <author>久保健</author>
+ </item>
+ <item>
+  <title>「撮りっぱなし」では，もったいない！ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0066</link>
+  <description>旅行の情景を撮る。友達との思い出を撮る。子供を撮る。ペットを撮る。季節の花を撮る。「……でも，撮った写真はカメラの中」では写真が報われません！ その写真，パソコンに取り込んで自由自在に活用しましょう！</description>
+  <pubDate>Wed, 19 Sep 2018 09:30:30 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0066</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>フォトリアルな3Dモデルを作る ～クライアントとイメージを共有するためのShade3D活用法～ ── 新刊ピックアップ</title>
+  <link>https://gihyo.jp/book/pickup/2018/0065</link>
+  <description>建築やプロダクト（工業生産物：製品）の設計は，2D CADが主流です。2D CADは図面そのものですから，その寸法に合わせて立体物を作ります。</description>
+  <pubDate>Wed, 19 Sep 2018 09:30:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/book/pickup">新刊ピックアップ</category>
+  <guid>https://gihyo.jp/book/pickup/2018/0065</guid> 
+  <author>編集部</author>
+ </item>
+ <item>
+  <title>2018年9月18日　「自分の態度を改めたい」 ―Linus，まさかの謝罪＆休養宣言 ── Linux Daily Topics</title>
+  <link>https://gihyo.jp/admin/clip/01/linux_dt/201809/18</link>
+  <description>Linus Torvaldsは9月16日，次期Linuxカーネル「Linux 4.19」の4本目のリリース候補（RC）版「Linux 4.19-rc4」をカーネル開発者向けメーリングリスト「LKML.org」にて公開した。</description>
+  <pubDate>Tue, 18 Sep 2018 11:00:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/admin/clip/01/linux_dt">Linux Daily Topics</category>
+  <guid>https://gihyo.jp/admin/clip/01/linux_dt/201809/18</guid> 
+  <author>階戸アキラ</author>
+ </item>
+ <item>
+  <title>第4回　ツール活用で文化（カルチャー）・習慣を変えてみよう（後編） ── 業務を改善する情報共有の仕掛け～DevOpsの実現，RPAの導入に向けて～</title>
+  <link>https://gihyo.jp/dev/serial/01/information-share-mechanism/0004</link>
+  <description>前編の最後では、製品やサービスを改善するために、作り替える回数を増やす、つまりソースコードのコミット回数を増やすことを考えました。</description>
+  <pubDate>Tue, 18 Sep 2018 09:33:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/information-share-mechanism">業務を改善する情報共有の仕掛け～DevOpsの実現，RPAの導入に向けて～</category>
+  <guid>https://gihyo.jp/dev/serial/01/information-share-mechanism/0004</guid> 
+  <author>奥村和彦</author>
+ </item>
+ <item>
+  <title>第41回　Swiftyなデータ処理 ── 書いて覚えるSwift入門</title>
+  <link>https://gihyo.jp/dev/serial/01/swift-introduction/0041</link>
+  <description>前回予告どおり，今回はswift-sionを題材にSwiftyなデータ処理とは何かを考察していきます。</description>
+  <pubDate>Tue, 18 Sep 2018 09:32:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/swift-introduction">書いて覚えるSwift入門</category>
+  <guid>https://gihyo.jp/dev/serial/01/swift-introduction/0041</guid> 
+  <author>小飼弾</author>
+ </item>
+ <item>
+  <title>第80回　FLUSH構文について ── MySQL道普請便り</title>
+  <link>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0080</link>
+  <description>MySQLのFLUSH構文は，内部キャッシュのクリア，リロード，ロックの取得，テーブルのフラッシュなど，構文によってさまざまなことを実行します。今回はFLUSH構文について説明していきます。</description>
+  <pubDate>Tue, 18 Sep 2018 09:31:00 +0900</pubDate>
+  <category domain="https://gihyo.jp/dev/serial/01/mysql-road-construction-news">MySQL道普請便り</category>
+  <guid>https://gihyo.jp/dev/serial/01/mysql-road-construction-news/0080</guid> 
+  <author>深町日出海</author>
+ </item>
+</channel>
+</rss>
